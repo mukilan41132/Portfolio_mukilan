@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Portfolio_mukilan/static/css/main.47615e9c.css",
+    "main.css": "/Portfolio_mukilan/static/css/main.3c1a7417.css",
     "main.js": "/Portfolio_mukilan/static/js/main.151ffa0b.js",
     "static/js/453.ed3810f9.chunk.js": "/Portfolio_mukilan/static/js/453.ed3810f9.chunk.js",
     "index.html": "/Portfolio_mukilan/index.html",
-    "main.47615e9c.css.map": "/Portfolio_mukilan/static/css/main.47615e9c.css.map",
+    "main.3c1a7417.css.map": "/Portfolio_mukilan/static/css/main.3c1a7417.css.map",
     "main.151ffa0b.js.map": "/Portfolio_mukilan/static/js/main.151ffa0b.js.map",
     "453.ed3810f9.chunk.js.map": "/Portfolio_mukilan/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.47615e9c.css",
+    "static/css/main.3c1a7417.css",
     "static/js/main.151ffa0b.js"
   ]
 }
