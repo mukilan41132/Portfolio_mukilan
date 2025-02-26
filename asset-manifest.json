@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.f207186f.css",
-    "main.js": "/portfolio/static/js/main.2538bea2.js",
-    "static/js/453.68693753.chunk.js": "/portfolio/static/js/453.68693753.chunk.js",
-    "static/media/IMG20230224095550.jpg": "/portfolio/static/media/IMG20230224095550.14034f1cde16d9a5665b.jpg",
-    "static/media/backgroungWallpaper.jpg": "/portfolio/static/media/backgroungWallpaper.370cfcbc6fd3d3898852.jpg",
-    "static/media/resume.pdf": "/portfolio/static/media/resume.5cd35fdffdcc089dab14.pdf",
-    "index.html": "/portfolio/index.html",
-    "main.f207186f.css.map": "/portfolio/static/css/main.f207186f.css.map",
-    "main.2538bea2.js.map": "/portfolio/static/js/main.2538bea2.js.map",
-    "453.68693753.chunk.js.map": "/portfolio/static/js/453.68693753.chunk.js.map"
+    "main.css": "/Portfolio_mukilan/static/css/main.c84bea72.css",
+    "main.js": "/Portfolio_mukilan/static/js/main.180ea1c4.js",
+    "static/js/453.68693753.chunk.js": "/Portfolio_mukilan/static/js/453.68693753.chunk.js",
+    "static/media/IMG20230224095550.jpg": "/Portfolio_mukilan/static/media/IMG20230224095550.14034f1cde16d9a5665b.jpg",
+    "static/media/backgroungWallpaper.jpg": "/Portfolio_mukilan/static/media/backgroungWallpaper.370cfcbc6fd3d3898852.jpg",
+    "static/media/resume.pdf": "/Portfolio_mukilan/static/media/resume.5cd35fdffdcc089dab14.pdf",
+    "index.html": "/Portfolio_mukilan/index.html",
+    "main.c84bea72.css.map": "/Portfolio_mukilan/static/css/main.c84bea72.css.map",
+    "main.180ea1c4.js.map": "/Portfolio_mukilan/static/js/main.180ea1c4.js.map",
+    "453.68693753.chunk.js.map": "/Portfolio_mukilan/static/js/453.68693753.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f207186f.css",
-    "static/js/main.2538bea2.js"
+    "static/css/main.c84bea72.css",
+    "static/js/main.180ea1c4.js"
   ]
 }
