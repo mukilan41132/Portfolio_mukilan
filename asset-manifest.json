@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Portfolio_mukilan/static/css/main.ad03f5d3.css",
+    "main.css": "/Portfolio_mukilan/static/css/main.809aa3f7.css",
     "main.js": "/Portfolio_mukilan/static/js/main.6f31b4f3.js",
     "static/js/453.68693753.chunk.js": "/Portfolio_mukilan/static/js/453.68693753.chunk.js",
     "static/media/IMG20230224095550.jpg": "/Portfolio_mukilan/static/media/IMG20230224095550.14034f1cde16d9a5665b.jpg",
     "static/media/backgroungWallpaper.jpg": "/Portfolio_mukilan/static/media/backgroungWallpaper.370cfcbc6fd3d3898852.jpg",
     "static/media/resume.pdf": "/Portfolio_mukilan/static/media/resume.5cd35fdffdcc089dab14.pdf",
     "index.html": "/Portfolio_mukilan/index.html",
-    "main.ad03f5d3.css.map": "/Portfolio_mukilan/static/css/main.ad03f5d3.css.map",
+    "main.809aa3f7.css.map": "/Portfolio_mukilan/static/css/main.809aa3f7.css.map",
     "main.6f31b4f3.js.map": "/Portfolio_mukilan/static/js/main.6f31b4f3.js.map",
     "453.68693753.chunk.js.map": "/Portfolio_mukilan/static/js/453.68693753.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ad03f5d3.css",
+    "static/css/main.809aa3f7.css",
     "static/js/main.6f31b4f3.js"
   ]
 }
