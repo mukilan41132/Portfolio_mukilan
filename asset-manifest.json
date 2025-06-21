@@ -1,18 +1,26 @@
 {
   "files": {
-    "main.css": "/Portfolio_mukilan/static/css/main.8a29b290.css",
-    "main.js": "/Portfolio_mukilan/static/js/main.d7cc9169.js",
+    "main.css": "/Portfolio_mukilan/static/css/main.d0d47d1c.css",
+    "main.js": "/Portfolio_mukilan/static/js/main.37e3c9bb.js",
     "static/js/488.9c92ff38.chunk.js": "/Portfolio_mukilan/static/js/488.9c92ff38.chunk.js",
+    "static/media/productpage.png": "/Portfolio_mukilan/static/media/productpage.ee76a49cafbff8256e9c.png",
     "static/media/IMG20230224095550.jpg": "/Portfolio_mukilan/static/media/IMG20230224095550.14034f1cde16d9a5665b.jpg",
-    "static/media/backgroungWallpaper.jpg": "/Portfolio_mukilan/static/media/backgroungWallpaper.370cfcbc6fd3d3898852.jpg",
+    "static/media/Developer.png": "/Portfolio_mukilan/static/media/Developer.468b76e8e15fbf5411f1.png",
+    "static/media/SuisideRisk-1.png": "/Portfolio_mukilan/static/media/SuisideRisk-1.3f9cfb981c0f22d3a923.png",
+    "static/media/Patient-OverView.png": "/Portfolio_mukilan/static/media/Patient-OverView.6af548df6c9c5d458a8d.png",
+    "static/media/DashBord-Page.png": "/Portfolio_mukilan/static/media/DashBord-Page.55a47e1873fa5dd1199d.png",
+    "static/media/Patient-Doctor-conv-record.png": "/Portfolio_mukilan/static/media/Patient-Doctor-conv-record.489893414ae31dfe1514.png",
+    "static/media/SusideRisk-2.png": "/Portfolio_mukilan/static/media/SusideRisk-2.cd6fffbacf523add6fa6.png",
     "static/media/Softwaredeveloper_Mukilan.pdf": "/Portfolio_mukilan/static/media/Softwaredeveloper_Mukilan.0dc23dccd7b7d10b6bad.pdf",
+    "static/media/Dynamic-Form-Creation.png": "/Portfolio_mukilan/static/media/Dynamic-Form-Creation.e1e3b052bcbb4d3f129e.png",
+    "static/media/LoginPage.png": "/Portfolio_mukilan/static/media/LoginPage.2fa91ecd4f49a104b709.png",
     "index.html": "/Portfolio_mukilan/index.html",
-    "main.8a29b290.css.map": "/Portfolio_mukilan/static/css/main.8a29b290.css.map",
-    "main.d7cc9169.js.map": "/Portfolio_mukilan/static/js/main.d7cc9169.js.map",
+    "main.d0d47d1c.css.map": "/Portfolio_mukilan/static/css/main.d0d47d1c.css.map",
+    "main.37e3c9bb.js.map": "/Portfolio_mukilan/static/js/main.37e3c9bb.js.map",
     "488.9c92ff38.chunk.js.map": "/Portfolio_mukilan/static/js/488.9c92ff38.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8a29b290.css",
-    "static/js/main.d7cc9169.js"
+    "static/css/main.d0d47d1c.css",
+    "static/js/main.37e3c9bb.js"
   ]
 }
